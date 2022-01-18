@@ -111,10 +111,10 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://medium.com/@joyeetadey"><img src="https://img.icons8.com/bubbles/50/000000/medium-new.png" alt="Medium"/></a>
+<!--   <a href=""><img src="https://img.icons8.com/bubbles/50/000000/medium-new.png" alt="Medium"/></a> -->
 	<a href="mailto:karmanya100@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/KarmanyaT28"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/joyeeta-dey"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="LinkedIn"/></a>
+	<a href="https://linkedin.com/in/karmanya-t-3288bb106"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/_karmanya.100"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png" alt="Instagram"/></a>
 	
 </p>
