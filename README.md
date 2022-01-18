@@ -1,7 +1,7 @@
 
-<h1 align="center">Hello World , I'm Karmanya  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello Developers , I'm Karmanya  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Btech+CSE+Undergraduate;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Btech+CSE+Undergraduate;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 ## 🔥 Streaks & Stats
@@ -12,6 +12,23 @@
 <!-- <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyeetadey&langs_count=8&layout=compact&theme=algolia" width="450" height="192px"/></a>
  </p> -->
+ 
+ 
+ <br>
+
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+### I am a Software Developer pursuing BTECH CSE
+
+-   🔭 I’m currently working on various projects and research papers
+-   🌱 I’m a Full Stack Developer and Data Scientist.
+-   👯 I’m looking to collaborate with other Developers :wink:
+-   🥅 2022 Goals: Contribute to Open Source projects and Try out Competitive Coding
+-   💬 Ask me about anything, I am happy to help :smile:
+-   🧗 I try to: Go beyond and push my limits
+-   ⚡ Fun fact: I love connecting with different people :raised_hands:
+
+<br>
 
 
 ## 🛠️ My Skills
