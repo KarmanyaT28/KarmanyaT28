@@ -14,9 +14,9 @@
 
 ### 👨‍💻 About Me
 
-🚨 Cybersecurity Analyst at UnitedHealth Group (Optum)  
+🚨 InfoSec Analyst, 2 yrs @ Optum (UHG)
 🎖 Certified Digital Forensics Examiner (CDFE)  
-🛠 Creator of real-world tools like CipherLock 🔐 and CipherScan 🛡  
+🛠 Creator of real-world tools like CipherLock , CipherScan , CipherWave 
 🐍 Deep into Python, Go, Rust, and DevSecOps automation  
 🕵️ Passionate about threat analysis, scripting, and secure development  
 🌍 Building projects using Django, Docker, GCP, and Kubernetes  
